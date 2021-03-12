@@ -1,0 +1,13 @@
+C:\Users\fergo\source\repos\ProjetoSenhaAleatoria\ProjetoSenhaAleatoria\bin\Debug\netcoreapp3.1\ProjetoSenhaAleatoria.exe
+C:\Users\fergo\source\repos\ProjetoSenhaAleatoria\ProjetoSenhaAleatoria\bin\Debug\netcoreapp3.1\ProjetoSenhaAleatoria.deps.json
+C:\Users\fergo\source\repos\ProjetoSenhaAleatoria\ProjetoSenhaAleatoria\bin\Debug\netcoreapp3.1\ProjetoSenhaAleatoria.runtimeconfig.json
+C:\Users\fergo\source\repos\ProjetoSenhaAleatoria\ProjetoSenhaAleatoria\bin\Debug\netcoreapp3.1\ProjetoSenhaAleatoria.runtimeconfig.dev.json
+C:\Users\fergo\source\repos\ProjetoSenhaAleatoria\ProjetoSenhaAleatoria\bin\Debug\netcoreapp3.1\ProjetoSenhaAleatoria.dll
+C:\Users\fergo\source\repos\ProjetoSenhaAleatoria\ProjetoSenhaAleatoria\bin\Debug\netcoreapp3.1\ProjetoSenhaAleatoria.pdb
+C:\Users\fergo\source\repos\ProjetoSenhaAleatoria\ProjetoSenhaAleatoria\obj\Debug\netcoreapp3.1\ProjetoSenhaAleatoria.csprojAssemblyReference.cache
+C:\Users\fergo\source\repos\ProjetoSenhaAleatoria\ProjetoSenhaAleatoria\obj\Debug\netcoreapp3.1\ProjetoSenhaAleatoria.AssemblyInfoInputs.cache
+C:\Users\fergo\source\repos\ProjetoSenhaAleatoria\ProjetoSenhaAleatoria\obj\Debug\netcoreapp3.1\ProjetoSenhaAleatoria.AssemblyInfo.cs
+C:\Users\fergo\source\repos\ProjetoSenhaAleatoria\ProjetoSenhaAleatoria\obj\Debug\netcoreapp3.1\ProjetoSenhaAleatoria.csproj.CoreCompileInputs.cache
+C:\Users\fergo\source\repos\ProjetoSenhaAleatoria\ProjetoSenhaAleatoria\obj\Debug\netcoreapp3.1\ProjetoSenhaAleatoria.dll
+C:\Users\fergo\source\repos\ProjetoSenhaAleatoria\ProjetoSenhaAleatoria\obj\Debug\netcoreapp3.1\ProjetoSenhaAleatoria.pdb
+C:\Users\fergo\source\repos\ProjetoSenhaAleatoria\ProjetoSenhaAleatoria\obj\Debug\netcoreapp3.1\ProjetoSenhaAleatoria.genruntimeconfig.cache
